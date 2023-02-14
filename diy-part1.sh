@@ -22,4 +22,3 @@ echo "src-git helloworld https://github.com/fw876/helloworld.git" >> "feeds.conf
 
 
 git clone https://github.com/vernesong/OpenClash package/luci-app-openclash
-git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
